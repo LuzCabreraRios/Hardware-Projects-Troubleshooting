@@ -23,7 +23,7 @@ The following components were analyzed during the repair process:
 ### Diagnostics & Findings
 * **Power Supply:** Verified as functional using a dedicated PSU tester and secondary system.
 * **RAM & GPU:** Both components were cross-tested in separate functional systems and confirmed to be working.
-* **Motherboard:** The "EZ debug" LEDs indicated specific errors related to RAM and Video, though these components were verified as functional.
+* **Motherboard:** The "EZ debug" LEDs indicated specific errors related to RAM and Video, though these components were verified as functional in an external system.
 
 
 
